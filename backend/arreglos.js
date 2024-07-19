@@ -26,6 +26,7 @@ const nombres2 = [
 ]
 
 const productos =[...nombres,...nombres2]
+
 console.table(productos)
 
 
